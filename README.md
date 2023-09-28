@@ -2,3 +2,5 @@
 
 Bonjour.
 J'ai faim.
+Nouvelle ligne.
+Merge conflict solved!
